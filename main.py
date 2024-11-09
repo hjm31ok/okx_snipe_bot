@@ -2,9 +2,9 @@ from snipe_bot import SnipeBot
 
 if __name__ == "__main__":
     # API配置
-    api_key = "fa054e21-26b3-4298-bb25-3b94b7633f57"    # 替换为您的 API KEY
-    secret_key = "73C15C4689EC2F337FF4E5E0D7C6198F"    # 替换为您的 SECRET KEY
-    passphrase = "Zhonglei1985@"    # 替换为您的密码短语
+    api_key = "````"    # 替换为您的 API KEY
+    secret_key = "````"    # 替换为您的 SECRET KEY
+    passphrase = "````"    # 替换为您的密码短语
 
         # 代理配置
     proxies = {
